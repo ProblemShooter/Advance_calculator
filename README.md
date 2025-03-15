@@ -87,7 +87,7 @@ An **advanced calculator** built using Python and Tkinter. This calculator suppo
 ![Dark Theme](![image](https://github.com/user-attachments/assets/3e1c9f02-924a-41b5-927e-21a16aa81f60)) 
 
 ### Light Theme
-![Light Theme](![Uploading image.png…]())
+![Light Theme](![image](https://github.com/user-attachments/assets/48b659b9-f705-4943-a782-da77fca0eae0))
 ---
 
 ## Contributing
@@ -121,7 +121,7 @@ For questions or feedback, feel free to reach out:
 
 - **Your Name**
 - **Email**: aadityajauhari01@gmail.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: https://github.com/ProblemShooter
 
 ---
 
