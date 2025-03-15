@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Your Name**
+- **Aaditya Jauhari**
 - **Email**: aadityajauhari01@gmail.com
 - **GitHub**: https://github.com/ProblemShooter
 
